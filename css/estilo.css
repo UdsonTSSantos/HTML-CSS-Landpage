@@ -73,8 +73,46 @@ header{
             width: 350px;
         }
     }
+}    
 
-    /* & img{
-        width: 500px;
-    } */
+#abaixoTopo{
+    padding: 0;
+    display: grid;
+    justify-content: space-between;
+    text-align: center;
+
+    & div:first-child{
+        padding-top: 150px;
+        padding-left: 40px;
+        color: #3c3c3c;
+    }
+    
+        & h1{
+            font-size: 40px;
+            margin-bottom: 8px;
+        }
+
+        & h3{
+            font-size: 20px;
+            line-height: 30px;
+            margin-bottom: 20px;
+            text-align: center;
+            
+        }
+
+        & p{
+            width: 20px;
+            display: grid;
+            text-align: center;
+        }
+
+.precos{
+    font-size: large;
+    text-align: center;
+    
+
 }
+
+    
+}
+
