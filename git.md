@@ -1,6 +1,6 @@
 **Subir no git**
 
-git add . 
+git add .
 
 git commit -m "denominação"
 
@@ -20,15 +20,13 @@ git pull (link do git)
 
 git checkout -b (nome da branch a ser criada)
 
-git checkout (nome da branch) para alternar 
+git checkout (nome da branch) para alternar
 
 
 
 
 
-Grid Garden (jogo CSS)
+**Grid Garden (jogo CSS)**
 
-
-
-
+**https://kahoot.it/   Jogo de kis**
 
